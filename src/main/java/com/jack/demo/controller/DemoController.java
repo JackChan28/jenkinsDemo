@@ -14,6 +14,6 @@ public class DemoController {
     @GetMapping(value = "/info")
    public String Info()
    {
-       return "Jekins Demo";
+       return "Jekins Demo123";
    }
 }
